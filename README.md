@@ -30,20 +30,19 @@ O TaskFlow é um aplicativo criado para auxiliar usuários na organização de t
 
 ---
 
-# ⚙️ Requisitos do Sistema
+# 📂 Estrutura do Projeto
 
-## Requisitos Funcionais
-
-- RF01 — O sistema deve permitir adicionar tarefas.
-- RF02 — O sistema deve permitir editar tarefas.
-- RF03 — O sistema deve permitir excluir tarefas.
-- RF04 — O sistema deve permitir marcar tarefas como concluídas.
-
-## Requisitos Não Funcionais
-
-- RNF01 — O sistema deve possuir interface responsiva.
-- RNF02 — O sistema deve ser intuitivo.
-- RNF03 — O sistema deve funcionar em diferentes navegadores.
+```bash
+📁 taskflow
+ ┣ 📁 assets
+ ┃ ┣ 📄 preview.png
+ ┃ ┗ 📄 logo.png
+ ┃
+ ┣ 📄 index.html
+ ┣ 📄 style.css
+ ┣ 📄 script.js
+ ┣ 📄 README.md
+ ┗ 📄 LICENSE
 
 ---
 
