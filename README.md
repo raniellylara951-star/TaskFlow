@@ -29,23 +29,6 @@ O TaskFlow é um aplicativo criado para auxiliar usuários na organização de t
 - GitHub
 
 ---
-
-# 📂 Estrutura do Projeto
-
-```bash
-📁 taskflow
- ┣ 📁 assets
- ┃ ┣ 📄 preview.png
- ┃ ┗ 📄 logo.png
- ┃
- ┣ 📄 index.html
- ┣ 📄 style.css
- ┣ 📄 script.js
- ┣ 📄 README.md
- ┗ 📄 LICENSE
-
----
-
 # 👨‍💻 Desenvolvido por
 
 - Lara Ranielly
