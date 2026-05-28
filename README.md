@@ -9,6 +9,14 @@
 O TaskFlow é um aplicativo criado para auxiliar usuários na organização de tarefas diárias de forma prática e eficiente.
 
 ---
+# 🎯 Objetivos
+
+- Melhorar a organização pessoal.
+- Facilitar o gerenciamento de tarefas.
+- Aumentar a produtividade dos usuários.
+- Oferecer uma interface simples e intuitiva.
+
+---
 
 # ✨ Funcionalidades
 
