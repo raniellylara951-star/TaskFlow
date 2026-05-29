@@ -7,5 +7,11 @@ public class tarefaservico {
     public void cadastrarTarefa(tarefa tarefa) {
         System.out.println("Tarefa cadastrada!");
     }
+    public void excluirtarefa() {
+
+    }
+    public void selecionartarefa() {
+        
+    }
 
 }
